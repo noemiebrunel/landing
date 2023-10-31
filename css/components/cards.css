@@ -1,0 +1,60 @@
+.accomodation-card {
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+  font-size: 12px;
+  color: #2F3540;
+}
+
+.accomodation-card img {
+  height: 200px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.accomodation-card div {
+padding: 8px;
+}
+
+.activities-card {
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+  font-size: 12px;
+  color: #2F3540;
+}
+
+.activities-card img {
+  height: 200px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.meeting-card {
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+  font-size: 12px;
+  color: #2F3540;
+}
+
+.meeting-card img {
+  height: 200px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px;
+}
